@@ -1,0 +1,21 @@
+.bicycle-wrapper{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.box{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.box li{
+    text-align: center;
+}
+
+li img{
+    width: 250px;
+    height: 150px;
+}
+
